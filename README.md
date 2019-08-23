@@ -7,3 +7,8 @@
 * MODID: minishaderscore.
 * NAME: MiniShadersCore.
 * VERSION: s1.
+----
+----
+### Tutorials
+###### 1. How to load this mod?
+###### 2. How to use this mod?
